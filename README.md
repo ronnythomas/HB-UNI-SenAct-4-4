@@ -14,4 +14,7 @@
 [Software](https://github.com/jp112sdl/HB-UNI-SenAct-4-4) von Jérôme
 
 ![complete](Images/HB-UNI-SenAct-4-4.jpg)
+
+* Die Leiterbahnen sind bis 6A ausgelegt ggf. zusätzlich Verzinnen!
+
 ![complete](Images/HB-UNI-SenAct-4-4-leer.jpg)
